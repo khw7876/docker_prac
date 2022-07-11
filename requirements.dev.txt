@@ -1,0 +1,2 @@
+-r requiremnests.txt
+pytest==6.2.4
